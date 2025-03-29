@@ -1,0 +1,6 @@
+avocado
+mango
+milk
+coffee
+eggs
+bread
